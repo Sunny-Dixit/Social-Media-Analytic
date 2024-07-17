@@ -35,3 +35,8 @@ Develop a social media analytics dashboard using **React** for the front end and
 
 * Display social media posts from different platforms (e.g. **Twitter**, **Facebook**, **Instagram**)
 
+![Mani Dashboard](https://github.com/user-attachments/assets/5fa7a6e2-6d55-43d8-83f0-cf18bffabd00)
+![Analytics Dashboard](https://github.com/user-attachments/assets/59d418bf-8b80-485c-b648-294348b6af86)
+![Analytics Dashboard2](https://github.com/user-attachments/assets/9224a799-1ce2-473e-bb87-146c6d7be022)
+
+
